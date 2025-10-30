@@ -6,8 +6,8 @@ I pay attention to details and love making layouts **pixel-perfect**.
 Logical challenges and problem-solving are what I enjoy most in development — turning ideas into elegant, working solutions.
 
 🌐 **Portfolio:** [vikspan.github.io](https://vikspan.github.io)  
-📫 **Email:** [viktorija.span@gmail.com]  
-💼 **LinkedIn:** [linkedin.com/in/profile](https://linkedin.com/in/profile)
+📫 **Email:** viktorija.span@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/viktorija-span](https://linkedin.com/in/viktorija-span)
 
 ---
 
