@@ -1,7 +1,7 @@
 # Hi, I'm Viktorija Špan 👋  
-**QA Tester / Front-End Developer / JavaScript Developer**
+**Front-End Developer / JavaScript Developer**
 
-I'm a qa tester / front-end developer focused on building clean, responsive, and user-friendly web interfaces.  
+I'm a front-end developer focused on building clean, responsive, and user-friendly web interfaces.  
 I pay attention to details and love making layouts **pixel-perfect**.  
 Logical challenges and problem-solving are what I enjoy most in development — turning ideas into elegant, working solutions.
 
